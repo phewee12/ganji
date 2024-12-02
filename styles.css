@@ -1,13 +1,13 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: #f5f7fa;
+    background-color: #a1c7de;
     color: #333;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #084309; /* Forest green */
+    background-color: #00243a; /* Forest green */
     padding: 1rem;
 }
 
@@ -30,7 +30,7 @@ main {
 }
 
 footer {
-    background-color: #084309; /* Forest green */
+    background-color: #04290a; /* Forest green */
     color: white;
     text-align: center;
     padding: 1rem;
@@ -40,7 +40,7 @@ footer {
 }
 
 #home {
-    background-color: #44341ea6; /* Light brown (burlywood) */
+    background-color: #a1c7de; /* Light brown (burlywood) */
     padding: 2rem;
     border-radius: 10px;
 }
@@ -55,13 +55,21 @@ footer {
 }
 
 h1, h2 {
-    font-family: 'Comic Sans MS', cursive, sans-serif;
-    color: #084309; /* Forest green */
+    font-family: 'Courier New', Courier, monospace;
+    color: #04290a; /* Forest green */
+    font-size: xx-large;
 }
 
-p, ul {
-    font-family: 'Arial', sans-serif;
-    color: #333;
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #04290a; /* Forest green */
+    font-size: large;
+}
+
+p, li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: #04290a;
 }
 
 ul {
